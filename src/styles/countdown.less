@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400.css');
+
+.countdown_wrapper {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  margin-bottom: 15px;
+  .countdown_item {
+    align-items: center;
+    color: #111;
+    display: flex;
+    flex-direction: column;
+    font-size: 42px;
+    height: 100px;
+    justify-content: center;
+    line-height: 30px;
+    margin: 0 10px;
+    padding-top: 10px;
+    position: relative;
+    width: 100px;
+    &:nth-child(1) {
+      height: auto;
+      margin-left: 0;
+      width: auto;
+    }
+    @media all and (min-width: 400px) and (max-width: 600px) {
+      font-size: 30px;
+    }
+    @media all and (min-width: 400px) and (max-width: 530px) {
+      font-size: 30px;
+      line-height: 26px;
+      height: 70px;
+      padding-top: 0;
+      width: 70px;
+    }
+    @media all and (max-width: 400px) {
+      font-size: 26px;
+      line-height: 26px;
+      height: 50px;
+      padding-top: 0;
+      width: 50px;
+    }
+    span {
+      color: #333;
+      letter-spacing: 0em;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+  }
+  .countdown_svg {
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100px;
+    @media all and (max-width: 530px) {
+      display: none;
+    }
+  }
+}
