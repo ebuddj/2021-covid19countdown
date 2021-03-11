@@ -1,0 +1,48 @@
+{
+  "events":[{
+    "bgcolor":"rgb(253, 91, 42)",
+    "datetime":"2021-03-03T00:00:00Z",
+    "title_before":"Soda in the park, with one friend!",
+    "desc_before":"more info…",
+    "desc_before2":"even more info…",
+    "title_after":"You can now have soda in the park, with one friend!",
+    "desc_after":"more info…",
+    "desc_after2":"even more info…"
+  },{
+    "bgcolor":"rgb(250, 156, 190)",
+    "datetime":"2021-04-23T00:00:00Z",
+    "title_before":"Soda in the park, with five friends",
+    "desc_before":"more info…",
+    "desc_before2":"even more info…",
+    "title_after":"Soda in the park, with five friends",
+    "desc_after":"more info…",
+    "desc_after2":"even more info…"
+  },{
+    "bgcolor":"rgb(147, 209, 172)",
+    "datetime":"2021-05-23T00:00:00Z",
+    "title_before":"Soda in a soda garden, with five friends",
+    "desc_before":"more info…",
+    "desc_before2":"even more info…",
+    "title_after":"Soda in a soda garden, with five friends",
+    "desc_after":"more info…",
+    "desc_after2":"even more info…"
+  },{
+    "bgcolor":"rgb(255, 182, 18)",
+    "datetime":"2021-05-31T00:00:00Z",
+    "title_before":"Soda in a pub, with five friends",
+    "desc_before":"more info…",
+    "desc_before2":"even more info…",
+    "title_after":"Soda in a pub, with five friends",
+    "desc_after":"more info…",
+    "desc_after2":"even more info…"
+  },{
+    "bgcolor":"rgb(137, 101, 221)",
+    "datetime":"2021-06-30T00:00:00Z",
+    "title_before":"Soda everywhere, with everyone",
+    "desc_before":"more info…",
+    "desc_before2":"even more info…",
+    "title_after":"Soda everywhere, with everyone",
+    "desc_after":"more info…",
+    "desc_after2":"even more info…"
+  }]
+}
