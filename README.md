@@ -21,14 +21,14 @@ Data format is the following:
 }
 ```
 
-By default the template expects 5 events, this can be modified in the code as needed.
+By default the template expects five events, but this can be modified as needed.
 
 * `datetime` is given in [ISO 8601](https://xkcd.com/1179/) format.
 * `*_before` values are shown if `datetime` has not passed.
 * `*_after` values are shown if `datetime` has passed.
 * `bgcolor` can be given in any css accepted format.
 
-Original idea by from [One Way Road To Beer](https://onewayroadtobeer.com/)
+Original idea by from [One Way Road To Beer](https://onewayroadtobeer.com/).
 
 **Sources**
 * []()
