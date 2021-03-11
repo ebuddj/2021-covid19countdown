@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400.css);
-@import url(https://fonts.googleapis.com/css?family=Lato:400.css);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400.css);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400.css);
 * {
   box-sizing: border-box;
 }
@@ -33,10 +33,12 @@ body {
 }
 .app___2khK2 h1 {
   margin: 0 0 20px 0;
+  font-weight: 400;
   font-size: 40px;
 }
 .app___2khK2 h3 {
   margin: 0 0 20px 0;
+  font-weight: 300;
   font-size: 20px;
 }
 @media only screen and (max-width: 800px) {
@@ -172,7 +174,7 @@ body {
   color: #333;
   letter-spacing: 0em;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 300;
   text-transform: uppercase;
 }
 .countdown_wrapper___2RuwT .countdown_svg___1bG9U {
